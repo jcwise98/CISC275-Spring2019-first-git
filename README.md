@@ -8,4 +8,4 @@
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 	The constructor is called in the sort statement.
-	Comparator is an interface implemented by Animal
+	Comparator is an interface implemented by Animal and is defined in the call to sort
